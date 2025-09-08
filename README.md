@@ -15,7 +15,7 @@
 - 🌱 Learning **Cloud, DevOps & System Design**  
 - 💬 Ask me about **React, Node.js, MongoDB, Express, Tailwind CSS, Redux**  
 - 📫 Reach me at: **kavi6764@gmail.com**  
-- 🌐 Portfolio: [https://kavi-s-portfolio.netlify.app/](https://yourportfolio.com)  
+- 🌐 Portfolio: [https://delicate-semifreddo-13f533.netlify.app/](https://yourportfolio.com)  
 - 💼 LinkedIn: [https://www.linkedin.com/in/kaviarasu-s-b54689232/](https://linkedin.com/in/your-link)  
 
 ---
